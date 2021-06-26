@@ -33,7 +33,7 @@ Below are the steps that are performed in the ETL Process:
 --null-string '\\N' --null-non-string '\\N' \
 -m 1**
 
-## 2. The transformed data is present in the PySpark File.
+## 2. The process of data transformation is present in the PySpark File.
 
 ## 3. Amazon Redshift Schema Creation:
 
