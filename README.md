@@ -1,8 +1,7 @@
 # ATM Data Transaction Analysis using complete ETL Process for Apache Sqoop, Spark and Amazon Redshift.
-This is complete Extract, Transform, Load process required for for data analysis.
+This is complete Extract, Transform, Load process used for analysis of ATM Hotspots.
 Spar Nord Bank is trying to observe the withdrawal behaviour and the corresponding dependent factors to optimally manage the refill frequency.
-Apart from this, other insights also can be drawn from the data.
-The dataset used is available at the location: https://www.kaggle.com/sparnord/danish-atm-transactions
+Apart from this, other insights also can be drawn from the data. The dataset used is available at the location: https://www.kaggle.com/sparnord/danish-atm-transactions
 
 This data set contains various types of transactional data as well as the weather data at the time of the transaction, such as:
 - Transaction Date and Time: Year, month, day, weekday, hour
